@@ -1,0 +1,2 @@
+Testing whether or not i have to edit text using Mousepad or VCS :P
+the test was successful and i have found out that it doesn't matter where i edit it :)
